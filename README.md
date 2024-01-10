@@ -1,2 +1,3 @@
 # Complete-Identity-Implementation-
-Login, SignUp , ForgetPassword, ResetPassword All Features are available
+Login, Sign Up, Forget Password, Reset Password All Features are available
+In MVC Core Dot Net.
